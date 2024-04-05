@@ -1,0 +1,7 @@
+/data
+*.jpg
+*.jpeg
+*.png
+*.pdf
+*.csv
+.idea
